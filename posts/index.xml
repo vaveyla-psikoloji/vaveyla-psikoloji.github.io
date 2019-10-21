@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Kübra Aydın Şimşekli</title>
-    <link>https://kubraydin.simsekli/posts/</link>
+    <link>https://vaveyla-psikoloji.github.io/posts/</link>
     <description>Recent content in Blog on Kübra Aydın Şimşekli</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 20 Oct 2019 21:21:44 +0300</lastBuildDate>
     
-	<atom:link href="https://kubraydin.simsekli/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vaveyla-psikoloji.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>İkinci Paylaşım</title>
-      <link>https://kubraydin.simsekli/posts/second-post/</link>
+      <link>https://vaveyla-psikoloji.github.io/posts/second-post/</link>
       <pubDate>Sun, 20 Oct 2019 21:21:44 +0300</pubDate>
       
-      <guid>https://kubraydin.simsekli/posts/second-post/</guid>
+      <guid>https://vaveyla-psikoloji.github.io/posts/second-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>İlk Paylaşım</title>
-      <link>https://kubraydin.simsekli/posts/first-post/</link>
+      <link>https://vaveyla-psikoloji.github.io/posts/first-post/</link>
       <pubDate>Sun, 20 Oct 2019 21:21:09 +0300</pubDate>
       
-      <guid>https://kubraydin.simsekli/posts/first-post/</guid>
+      <guid>https://vaveyla-psikoloji.github.io/posts/first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
